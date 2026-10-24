@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1432542013.svg)](https://doi.org/10.5281/zenodo.23627108)
+---
+
 # **<div align="center">Supplementary data for "Aseismic off-fault deformation reduces the earthquake potential inferred from geodesy"</div>**
 ### **<div align="center"> Nicolás Castro-Perdomo<sup>1</sup> and Kaj Johnson<sup>1</sup></div>**
 ### <div align="center"><sup>1</sup>Indiana University, Department of Earth and Atmospheric Sciences, Bloomington, Indiana 47405, U.S.A</div>
