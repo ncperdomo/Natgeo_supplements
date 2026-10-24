@@ -1,0 +1,14 @@
+numpy>=2.0
+pandas>=2.2
+scipy>=1.14
+matplotlib>=3.9,<3.11   # 3.11.x fails rendering a Section 10 figure (FreeType FT_Load_Glyph error)
+h5py>=3.11
+pygmt>=0.16
+xarray>=2024.10
+shapely>=2.0
+pyproj>=3.6
+scikit-learn>=1.5
+statsmodels>=0.14
+jupyter
+ipykernel
+nbclient
