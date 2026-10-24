@@ -22,7 +22,7 @@ Natgeo_supplements/
 │   ├── strain_rate_analysis.ipynb                # geodetic strain-rate maps, variograms, threshold curve, moment tensors
 │   ├── off_fault_geodetic_vs_seismic.ipynb       # off-fault seismic moment vs. geodetic budget (Monte Carlo null test)
 │   ├── missing_fault_analysis.ipynb              # fault-length statistics and off-fault moment
-│   ├── SAF_sensitivity_test.ipynb                # San Andreas fault sensitivity tests (runs Section_10_combined_test)
+│   ├── SAF_sensitivity_test.ipynb                # San Andreas fault sensitivity tests 
 │   ├── trade_off_analysis.ipynb                  # trade-off analysis, accepted model ensemble 
 │   ├── catalog_analysis_mc.ipynb                 # catalog moment budget vs. Monte Carlo null (Mueller C2 catalog)
 │   └── neokinema_bird_2009.ipynb                 # NeoKinema (Bird, 2009) off-fault strain rates and moment rates
