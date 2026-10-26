@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23674402.svg)](https://doi.org/10.5281/zenodo.23674402)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23627108.svg)](https://doi.org/10.5281/zenodo.23627108)
 ---
 # **<div align="center">Supplementary data for "Aseismic off-fault deformation reduces the earthquake potential inferred from geodesy"</div>**
 ### **<div align="center"> Nicolás Castro-Perdomo<sup>1</sup> and Kaj Johnson<sup>1</sup></div>**
